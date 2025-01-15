@@ -57,7 +57,7 @@ with st.sidebar:
     menu = ["🏥 Health Risk Assessment", "📊 Health Record Visualization"]
     choice = st.selectbox("Select a Feature", menu)
     st.sidebar.markdown("---")
-    st.sidebar.markdown("Developed by *YourName*", unsafe_allow_html=True)
+    st.sidebar.markdown("Developed by *SATHWIK KOKKONDA*", unsafe_allow_html=True)
     st.sidebar.markdown("© 2025 All Rights Reserved")
 
 # Health Risk Assessment
